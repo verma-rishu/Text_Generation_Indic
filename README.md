@@ -24,6 +24,7 @@ pip install -r requirements.txt
 ```
 ## References
 [1] https://github.com/huggingface/transformers
+
 [2] Divyanshu Kakwani, Anoop Kunchukuttan, Satish
 Golla, NC Gokul, Avik Bhattacharyya, Mitesh M
 Khapra, and Pratyush Kumar. 2020. IndicNLPSuite:
@@ -31,5 +32,7 @@ Monolingual corpora, evaluation benchmarks and
 pre-trained multilingual language models for Indian
 languages. In Findings of the Association for
 Computational Linguistics: EMNLP 2020. 4948–4961
+
 [3] [How to evaluate Text Generation Models](https://towardsdatascience.com/how-to-evaluate-text-generation-models-metrics-for-automatic-evaluation-of-nlp-models-e1c251b04ec1)
+
 [4] [How the Guardian approaches quote extraction with NLP](https://explosion.ai/blog/guardian)
